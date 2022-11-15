@@ -1,4 +1,4 @@
-- Risus Yazılım Sistemleri
+- Risus
 - www.risus.com.tr
 
 <!---
